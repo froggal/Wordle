@@ -1,0 +1,11 @@
+{
+    "sidebar_action": {
+      "default_page": "index.html",
+      "default_icon": {
+          "16": "assets/icon.png"
+      },
+      "default_title": "WORDLE",
+      "use_navigation_bar": false,
+      "mobile_user_agent": true
+    }
+}
